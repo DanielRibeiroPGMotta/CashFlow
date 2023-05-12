@@ -9,6 +9,7 @@ Padrões de projetos utilizados
 •	Singleton
 •	Strategy
 •	Factory
+
 Tecnologias e bibliotecas usadas
 •	Express
 •	Cors
@@ -18,6 +19,7 @@ Tecnologias e bibliotecas usadas
 •	MongoDb
 •	TailWindCss
 •	WebVitals
+
 Execução do projeto
 •	Clonar o projeto
 •	Abrir o terminal dentro da pasta backend e frontend
