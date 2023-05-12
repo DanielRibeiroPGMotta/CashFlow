@@ -1,16 +1,19 @@
+<<<<<<< HEAD
+=======
+# CashFlow
+
+>>>>>>> 921649bc8553cd1c9a2bed631d2862e6a45dbacb
 Fluxo Caixa
 Aplicação de fluxo de caixa construída na arquitetura MVC em conjunto com código limpo e os princípios do SOLID.
 Desenho da arquitetura
 	 
 Padrões de projetos utilizados
-
 •	Builder
 •	Singleton
 •	Strategy
 •	Factory
 
 Tecnologias e bibliotecas usadas
-
 •	Express
 •	Cors
 •	React
@@ -21,7 +24,6 @@ Tecnologias e bibliotecas usadas
 •	WebVitals
 
 Execução do projeto
-
 •	Clonar o projeto
 •	Abrir o terminal dentro da pasta backend e frontend
 •	Rodar o comando ‘npm i’ para instalar as dependências do projeto em ambas as pastas
