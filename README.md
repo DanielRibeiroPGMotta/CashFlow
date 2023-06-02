@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-=======
-# CashFlow
 
->>>>>>> 921649bc8553cd1c9a2bed631d2862e6a45dbacb
-Fluxo Caixa
+Fluxo de Caixa
+
 Aplicação de fluxo de caixa construída na arquitetura MVC em conjunto com código limpo e os princípios do SOLID.
 Desenho da arquitetura
 	 
